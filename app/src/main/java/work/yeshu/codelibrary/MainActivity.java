@@ -37,6 +37,7 @@ public class MainActivity extends Activity {
     private void initData() {
         mItems = new ArrayList<>();
         mItems.add(new LibraryItem(ObjectLiftCycleActivity.class));
+        mItems.add(new LibraryItem(JavaTestActivity.class));
     }
 
 

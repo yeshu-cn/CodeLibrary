@@ -21,6 +21,10 @@
             android:name=".ObjectLiftCycleActivity"
             android:label="@string/title_activity_object_lift_cycle" >
         </activity>
+        <activity
+            android:name=".JavaTestActivity"
+            android:label="@string/title_activity_java_test" >
+        </activity>
     </application>
 
 </manifest>
